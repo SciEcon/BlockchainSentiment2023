@@ -12,7 +12,7 @@
 | Mask Network           | No                           | - |
 | Decred                 | No                           | - |
 | Aragon                 | Yes                          | dao-builders-chat (Governance Settings) |
-| Ethereum Name Service  | Yes (limited discussion)                          | meta-governance |
+| Ethereum Name Service  | limited discussion                         | |
 | yearn.finance          | Yes                          | governance |
 | Merit Circle           | Yes                          | general-chat |
 | Balancer               | Yes                          | general-chat |
