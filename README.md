@@ -16,5 +16,4 @@
 | yearn.finance          | Yes                          | governance |
 | Merit Circle           | Yes                          | general-chat |
 | Balancer               | Yes                          | general-chat |
-| Ribbon Finance         | No                           | - |
 
