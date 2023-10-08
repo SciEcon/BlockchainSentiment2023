@@ -1,6 +1,11 @@
-# BlockchainSentiment2023
+# Decoding Social Sentiment: A Comprehensive Analysis of Blockchain Governance Communities
 
-## Data source
+## *Supplementary resources, data, and code*
+by **Yutong Quan**, **Xintong Wu**, **Wanlin Deng** and **Luyao Zhang***
+
+(* *corresponding authors*)
+
+## Data Source (Discord)
 | DApp                   | Has a chat/community channel | Channel |
 | ----------------------- | ---------------------------- | ------- |
 | Uniswap                | Yes                          | governance |
