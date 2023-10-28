@@ -87,13 +87,13 @@ by **Yutong Quan**, **Xintong Wu**, **Wanlin Deng** and **Luyao Zhang***
 ## Code
 | **DeFi Protocols** | **Google Colab File Name**|
 | ------- | ------- |
-| Aave | ------- |
-| Uniswap | ------- |
-| Curve Dao | ------- |
-| Aragon | ------- |
-| yearn.finance | ------- |
-| Merit Circle | ------- |
-| Balancer | ------- |
+| Aave | Aave.ipynb |
+| Uniswap | Uniswap.ipynb |
+| Curve Dao | Curve_Dao.ipynb |
+| Aragon | Aragon.ipynb |
+| yearn.finance | yearn_finance.ipynb |
+| Merit Circle | Merit_Circle.ipynb |
+| Balancer | Balancer |
 
 
 
