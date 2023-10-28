@@ -8,7 +8,7 @@ by **Yutong Quan**, **Xintong Wu**, **Wanlin Deng** and **Luyao Zhang***
 ## Table of Contents
 - [Data](https://github.com/SciEcon/BlockchainSentiment2023/tree/main#data)
 - [Code](https://github.com/SciEcon/BlockchainSentiment2023/tree/main#code)
-- [Reference](https://github.com/SciEcon/BlockchainSentiment2023/tree/main#reference)
+- [Reference](https://github.com/SciEcon/BlockchainSentiment2023/tree/main#references)
 ## Data
 ### Collected Data
 - **Data File Information**
@@ -99,7 +99,7 @@ by **Yutong Quan**, **Xintong Wu**, **Wanlin Deng** and **Luyao Zhang***
 | Merit Circle | Merit_Circle.ipynb |
 | Balancer | Balancer |
 
-## Reference
+## References
 **Data Reference:** Discord (https://discord.com/)
 
 **Code Reference:** Tyrrrz/DiscordChatExporter (https://github.com/Tyrrrz/DiscordChatExporter)
