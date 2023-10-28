@@ -40,40 +40,40 @@ by **Yutong Quan**, **Xintong Wu**, **Wanlin Deng** and **Luyao Zhang***
 
 | **DeFi Protocols** | **Data File** | **Description** |
 | ------- | ------- | ------- |
-| **Aave** | aave_cleaned_discord | This file provided the preprocessed content from the collected dataset of Aave. | 
-| | aave_daily_sentiment | This file contains the daily sentiment score of discussion in the Aave community on Discord. | 
-| | aave_user_sentiment | This file includes the user-based sentiment score of discussion in the Aave community on Discord. | 
-| | aave_volume_discord | This file presents the daily discussion volume for the Aave community on Discord. | 
-| **Uniswap** | uniswap_cleaned_discord | This file provided the preprocessed content from the collected dataset of Uniswap. | 
-| | uniswap_daily_sentiment | This file includes the user-based sentiment score of discussion in the Uniswap community on Discord. | 
-| | uniswap_user_sentiment | This file presents the daily discussion volume for the Uniswap community on Discord. | 
-| | uniswap_volume_discord | This file presents the daily discussion volume for the Uniswap community on Discord. | 
-| **Curve Dao** | curve_cleaned_discord | This file provided the preprocessed content from the collected dataset of Curve Dao. | 
-| | curve_daily_sentiment | This file includes the user-based sentiment score of discussion in the Curve Dao community on Discord. | 
-| | curve_user_sentiment | This file presents the daily discussion volume for the Curve Dao community on Discord. | 
-| | curve_volume_discord | This file presents the daily discussion volume for the Curve Dao community on Discord. | 
-| **Aragon** | aragon_cleaned_discord | This file provided the preprocessed content from the collected dataset of Aragon. | 
-| | aragon_daily_sentiment | This file includes the user-based sentiment score of discussion in the Aragon community on Discord. | 
-| | aragon_user_sentiment | This file presents the daily discussion volume for the Aragon community on Discord. | 
-| | aragon_volume_discord | This file presents the daily discussion volume for the Aragon community on Discord. | 
-| **Yearn Finance** | yearnfinance_cleaned_discord | This file provided the preprocessed content from the collected dataset of Yearn Finance. | 
-| | yearnfinance_daily_sentiment | This file includes the user-based sentiment score of discussion in the Yearn Finance community on Discord. | 
-| | yearnfinance_user_sentiment | This file presents the daily discussion volume for the Yearn Finance community on Discord. | 
-| | yearnfinance_volume_discord | This file presents the daily discussion volume for the Yearn Finance community on Discord. | 
-| **Merit Circle** | meritcircle_cleaned_discord | This file provided the preprocessed content from the collected dataset of Merit Circle. | 
-| | meritcircle_daily_sentiment | This file includes the user-based sentiment score of discussion in the Merit Circle community on Discord. | 
-| | meritcircle_user_sentiment | This file presents the daily discussion volume for the Merit Circle community on Discord. | 
-| | meritcircle_volume_discord | This file presents the daily discussion volume for the Merit Circle community on Discord. | 
-| **Balancer** | balancer_cleaned_discord | This file provided the preprocessed content from the collected dataset of Balancer. | 
-| | balancer_daily_sentiment | This file includes the user-based sentiment score of discussion in the Balancer community on Discord. | 
-| | balancer_user_sentiment | This file presents the daily discussion volume for the Balancer community on Discord. | 
-| | balancer_volume_discord | This file presents the daily discussion volume for the Balancer community on Discord. | 
+| **Aave** | aave_cleaned_discord.csv | This file provided the preprocessed content from the collected dataset of Aave. | 
+| | aave_daily_sentiment.csv | This file contains the daily sentiment score of discussion in the Aave community on Discord. | 
+| | aave_user_sentiment.csv | This file includes the user-based sentiment score of discussion in the Aave community on Discord. | 
+| | aave_volume_discord.csv | This file presents the daily discussion volume for the Aave community on Discord. | 
+| **Uniswap** | uniswap_cleaned_discord.csv | This file provided the preprocessed content from the collected dataset of Uniswap. | 
+| | uniswap_daily_sentiment.csv | This file includes the user-based sentiment score of discussion in the Uniswap community on Discord. | 
+| | uniswap_user_sentiment.csv | This file presents the daily discussion volume for the Uniswap community on Discord. | 
+| | uniswap_volume_discord.csv | This file presents the daily discussion volume for the Uniswap community on Discord. | 
+| **Curve Dao** | curve_cleaned_discord.csv | This file provided the preprocessed content from the collected dataset of Curve Dao. | 
+| | curve_daily_sentiment.csv | This file includes the user-based sentiment score of discussion in the Curve Dao community on Discord. | 
+| | curve_user_sentiment.csv | This file presents the daily discussion volume for the Curve Dao community on Discord. | 
+| | curve_volume_discord.csv | This file presents the daily discussion volume for the Curve Dao community on Discord. | 
+| **Aragon** | aragon_cleaned_discord.csv | This file provided the preprocessed content from the collected dataset of Aragon. | 
+| | aragon_daily_sentiment.csv | This file includes the user-based sentiment score of discussion in the Aragon community on Discord. | 
+| | aragon_user_sentiment.csv | This file presents the daily discussion volume for the Aragon community on Discord. | 
+| | aragon_volume_discord.csv | This file presents the daily discussion volume for the Aragon community on Discord. | 
+| **Yearn Finance** | yearnfinance_cleaned_discord.csv | This file provided the preprocessed content from the collected dataset of Yearn Finance. | 
+| | yearnfinance_daily_sentiment.csv | This file includes the user-based sentiment score of discussion in the Yearn Finance community on Discord. | 
+| | yearnfinance_user_sentiment.csv | This file presents the daily discussion volume for the Yearn Finance community on Discord. | 
+| | yearnfinance_volume_discord.csv | This file presents the daily discussion volume for the Yearn Finance community on Discord. | 
+| **Merit Circle** | meritcircle_cleaned_discord.csv | This file provided the preprocessed content from the collected dataset of Merit Circle. | 
+| | meritcircle_daily_sentiment.csv | This file includes the user-based sentiment score of discussion in the Merit Circle community on Discord. | 
+| | meritcircle_user_sentiment.csv | This file presents the daily discussion volume for the Merit Circle community on Discord. | 
+| | meritcircle_volume_discord.csv | This file presents the daily discussion volume for the Merit Circle community on Discord. | 
+| **Balancer** | balancer_cleaned_discord.csv | This file provided the preprocessed content from the collected dataset of Balancer. | 
+| | balancer_daily_sentiment.csv | This file includes the user-based sentiment score of discussion in the Balancer community on Discord. | 
+| | balancer_user_sentiment.csv | This file presents the daily discussion volume for the Balancer community on Discord. | 
+| | balancer_volume_discord.csv | This file presents the daily discussion volume for the Balancer community on Discord. | 
 
 - **Data Dictionary**
 
 | **File Classification** | **Variable Name**	| **Unit**	| **Data Type**	| **Description** |
 | ------- | ------- | ------- | ------- | ------- |
-| *DeFi*_cleaned_discord | AuthorID	| Count | int64 | This identifier uniquely distinguishes the authors of the discussions, allowing for tracking and attribution. |
+| *DeFi*_cleaned_discord.csv | AuthorID	| Count | int64 | This identifier uniquely distinguishes the authors of the discussions, allowing for tracking and attribution. |
 | | Author | Name |int64 | The name or username of the discussion participants. |
 | | Date_original | Minutes | int64 | The timestamp indicates when each discussion occurred, providing a temporal dimension to the dataset (shown in minutes). |
 | | Date | Days | int64 | The timestamp indicates when each discussion occurred, providing a temporal dimension to the dataset (shown in days). |
@@ -81,11 +81,11 @@ by **Yutong Quan**, **Xintong Wu**, **Wanlin Deng** and **Luyao Zhang***
 | | Attachments | File/Link/Image | int64 | Information regarding any attached files, images, or media shared within the discussions. |
 | | Reactions | Emoji | int64 | A record of reactions, such as emojis, associated with each discussion, offering insights into community engagement and sentiment. |
 | | Preprocessed | Text | int64 | The preprocessed textual content of the discussions with lowercasing, URL removal, special character removal, tokenization, stopword removal, and punctuation removal. |
-| *DeFi*_daily_sentiment | Date | Days | datetime64 | The timestamp indicates when each discussion occurred, providing a temporal dimension to the dataset (shown in days). |
+| *DeFi*_daily_sentiment.csv | Date | Days | datetime64 | The timestamp indicates when each discussion occurred, providing a temporal dimension to the dataset (shown in days). |
 | | Sentiment Score | Range=[-1,1] | int64 | The calculated average sentiment score for each day with discussion occurred. |
-| *DeFi*_user_sentiment | AuthorID | Count | int64 | This identifier uniquely distinguishes the authors of the discussions, allowing for tracking and attribution. |
+| *DeFi*_user_sentiment.csv | AuthorID | Count | int64 | This identifier uniquely distinguishes the authors of the discussions, allowing for tracking and attribution. |
 | | Average_Sentiment_Score | Range=[-1,1] | int64 | The calculated average sentiment score for each author who participated in the discussion. |
-| *DeFi*_volume_discord | Date | Days | datetime64 | The timestamp indicates when each discussion occurred, providing a temporal dimension to the dataset (shown in days). |
+| *DeFi*_volume_discord.csv | Date | Days | datetime64 | The timestamp indicates when each discussion occurred, providing a temporal dimension to the dataset (shown in days). |
 | | Discord Volume | Count | int64 | The daily discussion volume on DeFi protocols' Discord channel.|
 
 ## Code
