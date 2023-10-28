@@ -9,7 +9,7 @@ by **Yutong Quan**, **Xintong Wu**, **Wanlin Deng** and **Luyao Zhang***
 ### Collected Data
 - **Data File Information**
 
-| **DeFi Protocols** | **Data File** | **Channel** | Start Date | End Date | Message Count|
+| **DeFi Protocols** | **Data File** | **Channel** | **Start Date** | **End Date** | **Message Count** |
 | -------------------| ------- | ------- | ------- | ------- | ------- |
 | Aave               | Aave Community - ┌────AAVE Token────┐ - 📜governance [605528212239286312].csv | governance | 8/2/2019 | 7/27/2023 | 3,844 |
 | Uniswap            | Uniswap - Governance - 🏛│governance [755969053280960533].csv | governance | 9/17/2020 | 8 13/2023 | 11,583 |
@@ -21,7 +21,7 @@ by **Yutong Quan**, **Xintong Wu**, **Wanlin Deng** and **Luyao Zhang***
 
 - **Data Dictionary**
 
-| Variable Name	| Unit	| Data Type	| Description |
+| **Variable Name**	| **Unit**	| **Data Type**	| **Description** |
 | ------- | ------- | ------- | ------- |
 | AuthorID	| Count | int64 | This identifier uniquely distinguishes the authors of the discussions, allowing for tracking and attribution. |
 | Author | Name |int64 | The name or username of the discussion participants. |
@@ -32,4 +32,41 @@ by **Yutong Quan**, **Xintong Wu**, **Wanlin Deng** and **Luyao Zhang***
 | Reactions | Emoji | int64 | A record of reactions, such as emojis, associated with each discussion, offering insights into community engagement and sentiment. |
 
 ### Analyzed Data
+- **Data File Information**
+
+| **DeFi Protocols** | **Data File** | **Description** |
+| **Aave** | aave_cleaned_discord | ------- | 
+| | aave_daily_sentiment | ------- | 
+| | aave_user_sentiment | ------- | 
+| | aave_volume_discord | ------- | 
+| **Uniswap** | uniswap_cleaned_discord | ------- | 
+| | uniswap_daily_sentiment | ------- | 
+| | uniswap_user_sentiment | ------- | 
+| | uniswap_volume_discord | ------- | 
+| **Curve** | curve_cleaned_discord | ------- | 
+| | curve_daily_sentiment | ------- | 
+| | curve_user_sentiment | ------- | 
+| | curve_volume_discord | ------- | 
+| **Aragon** | aragon_cleaned_discord | ------- | 
+| | aragon_daily_sentiment | ------- | 
+| | arago_user_sentimentn | ------- | 
+| | aragon_volume_discord | ------- | 
+| **Yearn Finance** | yearnfinance_cleaned_discord | ------- | 
+| | yearnfinance_daily_sentiment | ------- | 
+| | yearnfinance_user_sentiment | ------- | 
+| | yearnfinance_volume_discord | ------- | 
+| **Merit Circle** | meritcircle_cleaned_discord | ------- | 
+| | meritcircle_daily_sentiment | ------- | 
+| | meritcircle_user_sentiment | ------- | 
+| | meritcircle_volume_discord | ------- | 
+| **Balancer** | balancer_cleaned_discord | ------- | 
+| | balancer_daily_sentiment | ------- | 
+| | balancer_user_sentiment | ------- | 
+| | balancer_volume_discord | ------- | 
+
+
+
+
+
+
 
