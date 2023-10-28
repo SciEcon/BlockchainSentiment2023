@@ -6,9 +6,9 @@ by **Yutong Quan**, **Xintong Wu**, **Wanlin Deng** and **Luyao Zhang***
 (* *corresponding authors*)
 
 ## Table of Content
-- [**Data**]()
-- [**Data**]()
-- [**Reference**]()
+- [**Data**](https://github.com/SciEcon/BlockchainSentiment2023/tree/main#data)
+- [**Data**](https://github.com/SciEcon/BlockchainSentiment2023/tree/main#code)
+- [**Reference**](https://github.com/SciEcon/BlockchainSentiment2023/tree/main#reference)
 ## Data
 ### Collected Data
 - **Data File Information**
