@@ -41,7 +41,7 @@ by **Yutong Quan**, **Xintong Wu**, **Wanlin Deng** and **Luyao Zhang***
 | | aave_user_sentiment | This file includes the user-based sentiment score of discussion in the Aave community on Discord. | 
 | | aave_volume_discord | This file presents the daily discussion volume for the Aave community on Discord. | 
 | **Uniswap** | uniswap_cleaned_discord | This file provided the preprocessed content from the collected dataset of Uniswap. | 
-| | uniswap_daily_sentiment | This file includes the user-based sentiment score of discussion in the v community on Discord. | 
+| | uniswap_daily_sentiment | This file includes the user-based sentiment score of discussion in the Uniswap community on Discord. | 
 | | uniswap_user_sentiment | This file presents the daily discussion volume for the Uniswap community on Discord. | 
 | | uniswap_volume_discord | This file presents the daily discussion volume for the Uniswap community on Discord. | 
 | **Curve Dao** | curve_cleaned_discord | This file provided the preprocessed content from the collected dataset of Curve Dao. | 
