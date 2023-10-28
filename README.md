@@ -1,4 +1,4 @@
-# Decoding Social Sentiment: A Comprehensive Analysis of Blockchain Governance Communities
+# Decoding Social Sentiment in DAO: A Comparative Analysis of Blockchain Governance Communities
 
 ## *Supplementary resources, data, and code*
 by **Yutong Quan**, **Xintong Wu**, **Wanlin Deng** and **Luyao Zhang***
