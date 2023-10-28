@@ -5,6 +5,10 @@ by **Yutong Quan**, **Xintong Wu**, **Wanlin Deng** and **Luyao Zhang***
 
 (* *corresponding authors*)
 
+## Table of Content
+- [**Data**]()
+- [**Data**]()
+- [**Reference**]()
 ## Data
 ### Collected Data
 - **Data File Information**
@@ -95,6 +99,9 @@ by **Yutong Quan**, **Xintong Wu**, **Wanlin Deng** and **Luyao Zhang***
 | Merit Circle | Merit_Circle.ipynb |
 | Balancer | Balancer |
 
+## Reference
+**Data Reference:** Discord (https://discord.com/)
+**Code Reference:** Tyrrrz/DiscordChatExporter (https://github.com/Tyrrrz/DiscordChatExporter)
 
 
 
