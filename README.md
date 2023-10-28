@@ -101,6 +101,7 @@ by **Yutong Quan**, **Xintong Wu**, **Wanlin Deng** and **Luyao Zhang***
 
 ## Reference
 **Data Reference:** Discord (https://discord.com/)
+
 **Code Reference:** Tyrrrz/DiscordChatExporter (https://github.com/Tyrrrz/DiscordChatExporter)
 
 
