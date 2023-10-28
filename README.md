@@ -54,7 +54,7 @@ by **Yutong Quan**, **Xintong Wu**, **Wanlin Deng** and **Luyao Zhang***
 | | curve_volume_discord | This file presents the daily discussion volume for the Curve Dao community on Discord. | 
 | **Aragon** | aragon_cleaned_discord | This file provided the preprocessed content from the collected dataset of Aragon. | 
 | | aragon_daily_sentiment | This file includes the user-based sentiment score of discussion in the Aragon community on Discord. | 
-| | arago_user_sentimentn | This file presents the daily discussion volume for the Aragon community on Discord. | 
+| | aragon_user_sentiment | This file presents the daily discussion volume for the Aragon community on Discord. | 
 | | aragon_volume_discord | This file presents the daily discussion volume for the Aragon community on Discord. | 
 | **Yearn Finance** | yearnfinance_cleaned_discord | This file provided the preprocessed content from the collected dataset of Yearn Finance. | 
 | | yearnfinance_daily_sentiment | This file includes the user-based sentiment score of discussion in the Yearn Finance community on Discord. | 
