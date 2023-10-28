@@ -8,6 +8,7 @@ by **Yutong Quan**, **Xintong Wu**, **Wanlin Deng** and **Luyao Zhang***
 ## Data
 ### Collected Data
 - Data File Names
+
 | DeFi Protocols         | Data File || Channel |
 | -----------------------| ------- || ------- |
 | Aave                | Aave Community - ┌────AAVE Token────┐ - 📜governance [605528212239286312].csv || governance |
