@@ -65,6 +65,25 @@ by **Yutong Quan**, **Xintong Wu**, **Wanlin Deng** and **Luyao Zhang***
 | | balancer_user_sentiment | ------- | 
 | | balancer_volume_discord | ------- | 
 
+- **Data Dictionary**
+
+| **File Classification** | **Variable Name**	| **Unit**	| **Data Type**	| **Description** |
+| ------- | ------- | ------- | ------- | ------- |
+| *DeFi*_cleaned_discord | AuthorID	| Count | int64 | This identifier uniquely distinguishes the authors of the discussions, allowing for tracking and attribution. |
+| | Author | Name |int64 | The name or username of the discussion participants. |
+| | Date_original | Minutes | int64 | The timestamp indicates when each discussion occurred, providing a temporal dimension to the dataset (shown in minutes). |
+| | Date | Days | int64 | The timestamp indicates when each discussion occurred, providing a temporal dimension to the dataset (shown in days). |
+| | Content | Text | int64 | The textual content of the discussions, including messages, comments, and replies. |
+| | Attachments | File/Link/Image | int64 | Information regarding any attached files, images, or media shared within the discussions. |
+| | Reactions | Emoji | int64 | A record of reactions, such as emojis, associated with each discussion, offering insights into community engagement and sentiment. |
+| | Preprocessed | Text | int64 | The preprocessed textual content of the discussions with lowercasing, URL removal, special character removal, tokenization, stopword removal, and punctuation removal. |
+| *DeFi*_daily_sentiment | Date | Days | datetime64 | The timestamp indicates when each discussion occurred, providing a temporal dimension to the dataset (shown in days). |
+| | Sentiment Score | Range=[-1,1] | int64 | The calculated average sentiment score for each day with discussion occurred. |
+| *DeFi*_user_sentiment | AuthorID | Count | int64 | This identifier uniquely distinguishes the authors of the discussions, allowing for tracking and attribution. |
+| | Average_Sentiment_Score | Range=[-1,1] | int64 | The calculated average sentiment score for each author who participated in the discussion. |
+| *DeFi*_volume_discord | Date | Days | datetime64 | The timestamp indicates when each discussion occurred, providing a temporal dimension to the dataset (shown in days). |
+| | Discord Volume | Count | int64 | The daily discussion volume on DeFi protocols' Discord channel.|
+
 
 
 
