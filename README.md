@@ -36,34 +36,34 @@ by **Yutong Quan**, **Xintong Wu**, **Wanlin Deng** and **Luyao Zhang***
 
 | **DeFi Protocols** | **Data File** | **Description** |
 | ------- | ------- | ------- |
-| **Aave** | aave_cleaned_discord | ------- | 
-| | aave_daily_sentiment | ------- | 
-| | aave_user_sentiment | ------- | 
-| | aave_volume_discord | ------- | 
-| **Uniswap** | uniswap_cleaned_discord | ------- | 
-| | uniswap_daily_sentiment | ------- | 
-| | uniswap_user_sentiment | ------- | 
-| | uniswap_volume_discord | ------- | 
-| **Curve** | curve_cleaned_discord | ------- | 
-| | curve_daily_sentiment | ------- | 
-| | curve_user_sentiment | ------- | 
-| | curve_volume_discord | ------- | 
-| **Aragon** | aragon_cleaned_discord | ------- | 
-| | aragon_daily_sentiment | ------- | 
-| | arago_user_sentimentn | ------- | 
-| | aragon_volume_discord | ------- | 
-| **Yearn Finance** | yearnfinance_cleaned_discord | ------- | 
-| | yearnfinance_daily_sentiment | ------- | 
-| | yearnfinance_user_sentiment | ------- | 
-| | yearnfinance_volume_discord | ------- | 
-| **Merit Circle** | meritcircle_cleaned_discord | ------- | 
-| | meritcircle_daily_sentiment | ------- | 
-| | meritcircle_user_sentiment | ------- | 
-| | meritcircle_volume_discord | ------- | 
-| **Balancer** | balancer_cleaned_discord | ------- | 
-| | balancer_daily_sentiment | ------- | 
-| | balancer_user_sentiment | ------- | 
-| | balancer_volume_discord | ------- | 
+| **Aave** | aave_cleaned_discord | This file provided the preprocessed content from the collected dataset of Aave. | 
+| | aave_daily_sentiment | This file contains the daily sentiment score of discussion in the Aave community on Discord. | 
+| | aave_user_sentiment | This file includes the user-based sentiment score of discussion in the Aave community on Discord. | 
+| | aave_volume_discord | This file presents the daily discussion volume for the Aave community on Discord. | 
+| **Uniswap** | uniswap_cleaned_discord | This file provided the preprocessed content from the collected dataset of Uniswap. | 
+| | uniswap_daily_sentiment | This file includes the user-based sentiment score of discussion in the v community on Discord. | 
+| | uniswap_user_sentiment | This file presents the daily discussion volume for the Uniswap community on Discord. | 
+| | uniswap_volume_discord | This file presents the daily discussion volume for the Uniswap community on Discord. | 
+| **Curve Dao** | curve_cleaned_discord | This file provided the preprocessed content from the collected dataset of Curve Dao. | 
+| | curve_daily_sentiment | This file includes the user-based sentiment score of discussion in the Curve Dao community on Discord. | 
+| | curve_user_sentiment | This file presents the daily discussion volume for the Curve Dao community on Discord. | 
+| | curve_volume_discord | This file presents the daily discussion volume for the Curve Dao community on Discord. | 
+| **Aragon** | aragon_cleaned_discord | This file provided the preprocessed content from the collected dataset of Aragon. | 
+| | aragon_daily_sentiment | This file includes the user-based sentiment score of discussion in the Aragon community on Discord. | 
+| | arago_user_sentimentn | This file presents the daily discussion volume for the Aragon community on Discord. | 
+| | aragon_volume_discord | This file presents the daily discussion volume for the Aragon community on Discord. | 
+| **Yearn Finance** | yearnfinance_cleaned_discord | This file provided the preprocessed content from the collected dataset of Yearn Finance. | 
+| | yearnfinance_daily_sentiment | This file includes the user-based sentiment score of discussion in the Yearn Finance community on Discord. | 
+| | yearnfinance_user_sentiment | This file presents the daily discussion volume for the Yearn Finance community on Discord. | 
+| | yearnfinance_volume_discord | This file presents the daily discussion volume for the Yearn Finance community on Discord. | 
+| **Merit Circle** | meritcircle_cleaned_discord | This file provided the preprocessed content from the collected dataset of Merit Circle. | 
+| | meritcircle_daily_sentiment | This file includes the user-based sentiment score of discussion in the Merit Circle community on Discord. | 
+| | meritcircle_user_sentiment | This file presents the daily discussion volume for the Merit Circle community on Discord. | 
+| | meritcircle_volume_discord | This file presents the daily discussion volume for the Merit Circle community on Discord. | 
+| **Balancer** | balancer_cleaned_discord | This file provided the preprocessed content from the collected dataset of Balancer. | 
+| | balancer_daily_sentiment | This file includes the user-based sentiment score of discussion in the Balancer community on Discord. | 
+| | balancer_user_sentiment | This file presents the daily discussion volume for the Balancer community on Discord. | 
+| | balancer_volume_discord | This file presents the daily discussion volume for the Balancer community on Discord. | 
 
 - **Data Dictionary**
 
