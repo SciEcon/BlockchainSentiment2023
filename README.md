@@ -84,8 +84,16 @@ by **Yutong Quan**, **Xintong Wu**, **Wanlin Deng** and **Luyao Zhang***
 | *DeFi*_volume_discord | Date | Days | datetime64 | The timestamp indicates when each discussion occurred, providing a temporal dimension to the dataset (shown in days). |
 | | Discord Volume | Count | int64 | The daily discussion volume on DeFi protocols' Discord channel.|
 
-
-
+## Code
+| **DeFi Protocols** | **Google Colab File Name**|
+| ------- | ------- |
+| Aave | ------- |
+| Uniswap | ------- |
+| Curve Dao | ------- |
+| Aragon | ------- |
+| yearn.finance | ------- |
+| Merit Circle | ------- |
+| Balancer | ------- |
 
 
 
