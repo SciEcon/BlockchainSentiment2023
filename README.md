@@ -35,6 +35,7 @@ by **Yutong Quan**, **Xintong Wu**, **Wanlin Deng** and **Luyao Zhang***
 - **Data File Information**
 
 | **DeFi Protocols** | **Data File** | **Description** |
+| ------- | ------- | ------- |
 | **Aave** | aave_cleaned_discord | ------- | 
 | | aave_daily_sentiment | ------- | 
 | | aave_user_sentiment | ------- | 
