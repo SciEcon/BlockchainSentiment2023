@@ -4,7 +4,7 @@
 by **Yutong Quan**, **Xintong Wu**, **Wanlin Deng** and **Luyao Zhang***
 
 (* *corresponding authors*)
-<img src="https://github.com/SciEcon/BlockchainSentiment2023/blob/main/Images/article-overview.png" width="150" alt="article-overview" /><br/>
+<img src="https://github.com/SciEcon/BlockchainSentiment2023/blob/main/Images/article-overview.png" width="500" alt="article-overview" /><br/>
 Figure 1. Overview of the article: created by Whimsical.
 
 ## Table of Contents
