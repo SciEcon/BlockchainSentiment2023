@@ -2,10 +2,9 @@
 
 ## *Supplementary resources, data, and code*
 by **Yutong Quan**, **Xintong Wu**, **Wanlin Deng** and **Luyao Zhang***
-
 (* *corresponding authors*)
-<img src="https://github.com/SciEcon/BlockchainSentiment2023/blob/main/Images/article-overview.png" width="500" alt="article-overview" /><br/>
-Figure 1. Overview of the article: created by Whimsical.
+
+Figure 1. Overview of the article: created by Whimsical. <img src="https://github.com/SciEcon/BlockchainSentiment2023/blob/main/Images/article-overview.png" width="500" alt="article-overview" /><br/>
 
 ## Table of Contents
 - [Data](https://github.com/SciEcon/BlockchainSentiment2023/tree/main#data)
@@ -13,8 +12,7 @@ Figure 1. Overview of the article: created by Whimsical.
 - [Reference](https://github.com/SciEcon/BlockchainSentiment2023/tree/main#references)
 
 ## Data
-![data-processed-flowchart](https://github.com/SciEcon/BlockchainSentiment2023/blob/main/Images/data-processed-flowchart.png)
-Figure 2. Data processed flowchart: created by Whimsical.
+Figure 2. Data processed flowchart: created by Whimsical.<img src="https://github.com/SciEcon/BlockchainSentiment2023/blob/main/Images/data-processed-flowchart.png" alt="data-processed-flowchart" /><br/>
 
 ### Collected Data
 - **Data File Information**
