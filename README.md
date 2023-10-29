@@ -20,6 +20,9 @@ by **Yutong Quan**, **Xintong Wu**, **Wanlin Deng** and **Luyao Zhang***
 *Figure 2. Data processed flowchart: created by Whimsical.*
 
 ### Collected Data
+
+For collecting data from Discord, please refer to [**DiscordChatExporter**](https://github.com/Tyrrrz/DiscordChatExporter). DiscordChatExporter is an application that can be used to export message history from any Discord channel to a file.
+
 - **Data File Information**
 
 | **DeFi Protocols** | **Data File** | **Channel** | **Start Date** | **End Date** | **Message Count** |
