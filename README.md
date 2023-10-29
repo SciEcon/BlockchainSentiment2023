@@ -5,12 +5,18 @@ by **Yutong Quan**, **Xintong Wu**, **Wanlin Deng** and **Luyao Zhang***
 
 (* *corresponding authors*)
 
+![article-overview](https://github.com/SciEcon/BlockchainSentiment2023/blob/main/Images/article-overview.png)
+Figure 1. Overview of the article: created by Whimsical.
+
 ## Table of Contents
 - [Data](https://github.com/SciEcon/BlockchainSentiment2023/tree/main#data)
 - [Code](https://github.com/SciEcon/BlockchainSentiment2023/tree/main#code)
 - [Reference](https://github.com/SciEcon/BlockchainSentiment2023/tree/main#references)
 
 ## Data
+![data-processed-flowchart](https://github.com/SciEcon/BlockchainSentiment2023/blob/main/Images/data-processed-flowchart.png)
+Figure 2. Data processed flowchart: created by Whimsical.
+
 ### Collected Data
 - **Data File Information**
 
