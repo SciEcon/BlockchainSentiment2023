@@ -113,12 +113,19 @@ For collecting data from Discord, please refer to [**DiscordChatExporter**](http
 | Balancer | [Balancer](https://github.com/SciEcon/BlockchainSentiment2023/blob/main/Code/Balancer.ipynb) |
 
 ## Images
+### Overview
 
+![data-processed-flowchart](./Images/data-processed-flowchart.png)
+![literature-review-mandmap](./Images/literature-review-mandmap.png)
+
+### AAVE
 ![aave-sentiment](./Images/aave-sentiment.png)
 
 ![aave-volume-all](./Images/aave-volume-all.png)
 
 ![aave-volume](./Images/aave-volume.png)
+
+### Aragon
 
 ![aragon-sentiment](./Images/aragon-sentiment.png)
 
@@ -126,7 +133,7 @@ For collecting data from Discord, please refer to [**DiscordChatExporter**](http
 
 ![aragon-volume](./Images/aragon-volume.png)
 
-![article-overview](./Images/article-overview.png)
+### Balancer
 
 ![balancer-sentiment](./Images/balancer-sentiment.png)
 
@@ -134,15 +141,16 @@ For collecting data from Discord, please refer to [**DiscordChatExporter**](http
 
 ![balancer-volume](./Images/balancer-volume.png)
 
+### Curve
+
 ![curve-sentiment](./Images/curve-sentiment.png)
 
 ![curve-volume-all](./Images/curve-volume-all.png)
 
 ![curve-volume](./Images/curve-volume.png)
 
-![data-processed-flowchart](./Images/data-processed-flowchart.png)
+### Merit
 
-![literature-review-mandmap](./Images/literature-review-mandmap.png)
 
 ![merit-sentiment](./Images/merit-sentiment.png)
 
@@ -150,11 +158,15 @@ For collecting data from Discord, please refer to [**DiscordChatExporter**](http
 
 ![merit-volume](./Images/merit-volume.png)
 
+### Uniswap
+
 ![uniswap-sentiment](./Images/uniswap-sentiment.png)
 
 ![uniswap-volume-all](./Images/uniswap-volume-all.png)
 
 ![uniswap-volume](./Images/uniswap-volume.png)
+
+### Yearn
 
 ![yearn-sentiment](./Images/yearn-sentiment.png)
 
