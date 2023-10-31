@@ -158,7 +158,7 @@ For collecting data from Discord, please refer to [**DiscordChatExporter**](http
 
 ![yearn-sentiment](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/yearn-sentiment.png)
 
-![yearn-volume-all](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/yearn-volume-all.png)
+![yearn-volume-all](./Image/yearn-volume-all.png)
 
 ![yearn-volume](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/yearn-volume.png)
 
