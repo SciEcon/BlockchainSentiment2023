@@ -140,11 +140,21 @@ For collecting data from Discord, please refer to [**DiscordChatExporter**](http
 
 ### Aragon
 
-![aragon-sentiment](./Images/aragon-sentiment.png)
+<table>
+    <tr>
+        <td><img src="./Images/aragon-sentiment.png" alt="aragon-sentiment"></td>
+        <td><a href="./Images/aragon-sentiment.png">./Images/aragon-sentiment.png</a></td>
+    </tr>
+    <tr>
+        <td><img src="./Images/aragon-volume-all.png" alt="aragon-volume-all"></td>
+        <td><a href="./Images/aragon-volume-all.png">./Images/aragon-volume-all.png</a></td>
+    </tr>
+    <tr>
+        <td><img src="./Images/aragon-volume.png" alt="aragon-volume"></td>
+        <td><a href="./Images/aragon-volume.png">./Images/aragon-volume.png</a></td>
+    </tr>
+</table>
 
-![aragon-volume-all](./Images/aragon-volume-all.png)
-
-![aragon-volume](./Images/aragon-volume.png)
 
 ### Balancer
 
