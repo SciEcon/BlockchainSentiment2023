@@ -3,7 +3,7 @@
 ## *Supplementary resources, data, and code*
 by **Yutong Quan**, **Xintong Wu**, **Wanlin Deng** and **Luyao Zhang***
 
-(* *corresponding authors*)
+(* *the corresponding author:lz183@duke.edu*)
 
 <img src="https://github.com/SciEcon/BlockchainSentiment2023/blob/main/Images/article-overview.png" width="600" alt="article-overview" /><br/>
 
