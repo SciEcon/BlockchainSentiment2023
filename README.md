@@ -114,53 +114,54 @@ For collecting data from Discord, please refer to [**DiscordChatExporter**](http
 
 ## Images
 
-![aave-sentiment](./Image/aave-sentiment.png)
+![aave-sentiment](./Images/aave-sentiment.png)
 
-![aave-volume-all](./Image/aave-volume-all.png)
+![aave-volume-all](./Images/aave-volume-all.png)
 
-![aave-volume](./Image/aave-volume.png)
+![aave-volume](./Images/aave-volume.png)
 
-![aragon-sentiment](./Image/aragon-sentiment.png)
+![aragon-sentiment](./Images/aragon-sentiment.png)
 
-![aragon-volume-all](./Image/aragon-volume-all.png)
+![aragon-volume-all](./Images/aragon-volume-all.png)
 
-![aragon-volume](./Image/aragon-volume.png)
+![aragon-volume](./Images/aragon-volume.png)
 
-![article-overview](./Image/article-overview.png)
+![article-overview](./Images/article-overview.png)
 
-![balancer-sentiment](./Image/balancer-sentiment.png)
+![balancer-sentiment](./Images/balancer-sentiment.png)
 
-![balancer-volume-all](./Image/balancer-volume-all.png)
+![balancer-volume-all](./Images/balancer-volume-all.png)
 
-![balancer-volume](./Image/balancer-volume.png)
+![balancer-volume](./Images/balancer-volume.png)
 
-![curve-sentiment](./Image/curve-sentiment.png)
+![curve-sentiment](./Images/curve-sentiment.png)
 
-![curve-volume-all](./Image/curve-volume-all.png)
+![curve-volume-all](./Images/curve-volume-all.png)
 
-![curve-volume](./Image/curve-volume.png)
+![curve-volume](./Images/curve-volume.png)
 
-![data-processed-flowchart](./Image/data-processed-flowchart.png)
+![data-processed-flowchart](./Images/data-processed-flowchart.png)
 
-![literature-review-mandmap](./Image/literature-review-mandmap.png)
+![literature-review-mandmap](./Images/literature-review-mandmap.png)
 
-![merit-sentiment](./Image/merit-sentiment.png)
+![merit-sentiment](./Images/merit-sentiment.png)
 
-![merit-volume-all](./Image/merit-volume-all.png)
+![merit-volume-all](./Images/merit-volume-all.png)
 
-![merit-volume](./Image/merit-volume.png)
+![merit-volume](./Images/merit-volume.png)
 
-![uniswap-sentiment](./Image/uniswap-sentiment.png)
+![uniswap-sentiment](./Images/uniswap-sentiment.png)
 
-![uniswap-volume-all](./Image/uniswap-volume-all.png)
+![uniswap-volume-all](./Images/uniswap-volume-all.png)
 
-![uniswap-volume](./Image/uniswap-volume.png)
+![uniswap-volume](./Images/uniswap-volume.png)
 
-![yearn-sentiment](./Image/yearn-sentiment.png)
+![yearn-sentiment](./Images/yearn-sentiment.png)
 
-![yearn-volume-all](./Image/yearn-volume-all.png)
+![yearn-volume-all](./Images/yearn-volume-all.png)
 
-![yearn-volume](./Image/yearn-volume.png)
+![yearn-volume](./Images/yearn-volume.png)
+
 
 
 ## References
