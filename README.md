@@ -114,53 +114,54 @@ For collecting data from Discord, please refer to [**DiscordChatExporter**](http
 
 ## Images
 
-![aave-sentiment](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/aave-sentiment.png)
+![aave-sentiment](./Image/aave-sentiment.png)
 
-![aave-volume-all](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/aave-volume-all.png)
+![aave-volume-all](./Image/aave-volume-all.png)
 
-![aave-volume](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/aave-volume.png)
+![aave-volume](./Image/aave-volume.png)
 
-![aragon-sentiment](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/aragon-sentiment.png)
+![aragon-sentiment](./Image/aragon-sentiment.png)
 
-![aragon-volume-all](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/aragon-volume-all.png)
+![aragon-volume-all](./Image/aragon-volume-all.png)
 
-![aragon-volume](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/aragon-volume.png)
+![aragon-volume](./Image/aragon-volume.png)
 
-![article-overview](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/article-overview.png)
+![article-overview](./Image/article-overview.png)
 
-![balancer-sentiment](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/balancer-sentiment.png)
+![balancer-sentiment](./Image/balancer-sentiment.png)
 
-![balancer-volume-all](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/balancer-volume-all.png)
+![balancer-volume-all](./Image/balancer-volume-all.png)
 
-![balancer-volume](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/balancer-volume.png)
+![balancer-volume](./Image/balancer-volume.png)
 
-![curve-sentiment](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/curve-sentiment.png)
+![curve-sentiment](./Image/curve-sentiment.png)
 
-![curve-volume-all](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/curve-volume-all.png)
+![curve-volume-all](./Image/curve-volume-all.png)
 
-![curve-volume](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/curve-volume.png)
+![curve-volume](./Image/curve-volume.png)
 
-![data-processed-flowchart](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/data-processed-flowchart.png)
+![data-processed-flowchart](./Image/data-processed-flowchart.png)
 
-![literature-review-mandmap](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/literature-review-mandmap.png)
+![literature-review-mandmap](./Image/literature-review-mandmap.png)
 
-![merit-sentiment](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/merit-sentiment.png)
+![merit-sentiment](./Image/merit-sentiment.png)
 
-![merit-volume-all](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/merit-volume-all.png)
+![merit-volume-all](./Image/merit-volume-all.png)
 
-![merit-volume](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/merit-volume.png)
+![merit-volume](./Image/merit-volume.png)
 
-![uniswap-sentiment](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/uniswap-sentiment.png)
+![uniswap-sentiment](./Image/uniswap-sentiment.png)
 
-![uniswap-volume-all](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/uniswap-volume-all.png)
+![uniswap-volume-all](./Image/uniswap-volume-all.png)
 
-![uniswap-volume](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/uniswap-volume.png)
+![uniswap-volume](./Image/uniswap-volume.png)
 
-![yearn-sentiment](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/yearn-sentiment.png)
+![yearn-sentiment](./Image/yearn-sentiment.png)
 
-![yearn-volume-all](./Images/yearn-volume-all.png)
+![yearn-volume-all](./Image/yearn-volume-all.png)
 
-![yearn-volume](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/yearn-volume.png)
+![yearn-volume](./Image/yearn-volume.png)
+
 
 ## References
 **Data Reference:** Discord (https://discord.com/)
