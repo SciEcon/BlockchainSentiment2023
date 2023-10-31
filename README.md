@@ -12,6 +12,7 @@ by **Yutong Quan**, **Xintong Wu**, **Wanlin Deng** and **Luyao Zhang***
 ## Table of Contents
 - [Data](https://github.com/SciEcon/BlockchainSentiment2023/tree/main#data)
 - [Code](https://github.com/SciEcon/BlockchainSentiment2023/tree/main#code)
+- [Images]()
 - [Reference](https://github.com/SciEcon/BlockchainSentiment2023/tree/main#references)
 
 ## Data
@@ -110,6 +111,56 @@ For collecting data from Discord, please refer to [**DiscordChatExporter**](http
 | yearn.finance | [yearn_finance.ipynb](https://github.com/SciEcon/BlockchainSentiment2023/blob/main/Code/yearn_finance.ipynb) |
 | Merit Circle | [Merit_Circle.ipynb](https://github.com/SciEcon/BlockchainSentiment2023/blob/main/Code/Merit_Circle.ipynb) |
 | Balancer | [Balancer](https://github.com/SciEcon/BlockchainSentiment2023/blob/main/Code/Balancer.ipynb) |
+
+## Images
+
+![aave-sentiment](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/aave-sentiment.png)
+
+![aave-volume-all](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/aave-volume-all.png)
+
+![aave-volume](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/aave-volume.png)
+
+![aragon-sentiment](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/aragon-sentiment.png)
+
+![aragon-volume-all](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/aragon-volume-all.png)
+
+![aragon-volume](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/aragon-volume.png)
+
+![article-overview](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/article-overview.png)
+
+![balancer-sentiment](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/balancer-sentiment.png)
+
+![balancer-volume-all](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/balancer-volume-all.png)
+
+![balancer-volume](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/balancer-volume.png)
+
+![curve-sentiment](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/curve-sentiment.png)
+
+![curve-volume-all](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/curve-volume-all.png)
+
+![curve-volume](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/curve-volume.png)
+
+![data-processed-flowchart](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/data-processed-flowchart.png)
+
+![literature-review-mandmap](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/literature-review-mandmap.png)
+
+![merit-sentiment](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/merit-sentiment.png)
+
+![merit-volume-all](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/merit-volume-all.png)
+
+![merit-volume](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/merit-volume.png)
+
+![uniswap-sentiment](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/uniswap-sentiment.png)
+
+![uniswap-volume-all](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/uniswap-volume-all.png)
+
+![uniswap-volume](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/uniswap-volume.png)
+
+![yearn-sentiment](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/yearn-sentiment.png)
+
+![yearn-volume-all](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/yearn-volume-all.png)
+
+![yearn-volume](https://github.com/YourUsername/YourRepositoryName/raw/main/Image/yearn-volume.png)
 
 ## References
 **Data Reference:** Discord (https://discord.com/)
