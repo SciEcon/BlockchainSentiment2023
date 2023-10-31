@@ -158,44 +158,93 @@ For collecting data from Discord, please refer to [**DiscordChatExporter**](http
 
 ### Balancer
 
-![balancer-sentiment](./Images/balancer-sentiment.png)
+<table>
+    <tr>
+        <td><img src="./Images/balancer-sentiment.png" alt="balancer-sentiment"></td>
+        <td><a href="./Images/balancer-sentiment.png">./Images/balancer-sentiment.png</a></td>
+    </tr>
+    <tr>
+        <td><img src="./Images/balancer-volume-all.png" alt="balancer-volume-all"></td>
+        <td><a href="./Images/balancer-volume-all.png">./Images/balancer-volume-all.png</a></td>
+    </tr>
+    <tr>
+        <td><img src="./Images/balancer-volume.png" alt="balancer-volume"></td>
+        <td><a href="./Images/balancer-volume.png">./Images/balancer-volume.png</a></td>
+    </tr>
+</table>
 
-![balancer-volume-all](./Images/balancer-volume-all.png)
-
-![balancer-volume](./Images/balancer-volume.png)
 
 ### Curve
 
-![curve-sentiment](./Images/curve-sentiment.png)
+<table>
+    <tr>
+        <td><img src="./Images/curve-sentiment.png" alt="curve-sentiment"></td>
+        <td><a href="./Images/curve-sentiment.png">./Images/curve-sentiment.png</a></td>
+    </tr>
+    <tr>
+        <td><img src="./Images/curve-volume-all.png" alt="curve-volume-all"></td>
+        <td><a href="./Images/curve-volume-all.png">./Images/curve-volume-all.png</a></td>
+    </tr>
+    <tr>
+        <td><img src="./Images/curve-volume.png" alt="curve-volume"></td>
+        <td><a href="./Images/curve-volume.png">./Images/curve-volume.png</a></td>
+    </tr>
+</table>
 
-![curve-volume-all](./Images/curve-volume-all.png)
-
-![curve-volume](./Images/curve-volume.png)
 
 ### Merit
 
+<table>
+    <tr>
+        <td><img src="./Images/merit-sentiment.png" alt="merit-sentiment"></td>
+        <td><a href="./Images/merit-sentiment.png">./Images/merit-sentiment.png</a></td>
+    </tr>
+    <tr>
+        <td><img src="./Images/merit-volume-all.png" alt="merit-volume-all"></td>
+        <td><a href="./Images/merit-volume-all.png">./Images/merit-volume-all.png</a></td>
+    </tr>
+    <tr>
+        <td><img src="./Images/merit-volume.png" alt="merit-volume"></td>
+        <td><a href="./Images/merit-volume.png">./Images/merit-volume.png</a></td>
+    </tr>
+</table>
 
-![merit-sentiment](./Images/merit-sentiment.png)
-
-![merit-volume-all](./Images/merit-volume-all.png)
-
-![merit-volume](./Images/merit-volume.png)
 
 ### Uniswap
 
-![uniswap-sentiment](./Images/uniswap-sentiment.png)
+<table>
+    <tr>
+        <td><img src="./Images/uniswap-sentiment.png" alt="uniswap-sentiment"></td>
+        <td><a href="./Images/uniswap-sentiment.png">./Images/uniswap-sentiment.png</a></td>
+    </tr>
+    <tr>
+        <td><img src="./Images/uniswap-volume-all.png" alt="uniswap-volume-all"></td>
+        <td><a href="./Images/uniswap-volume-all.png">./Images/uniswap-volume-all.png</a></td>
+    </tr>
+    <tr>
+        <td><img src="./Images/uniswap-volume.png" alt="uniswap-volume"></td>
+        <td><a href="./Images/uniswap-volume.png">./Images/uniswap-volume.png</a></td>
+    </tr>
+</table>
 
-![uniswap-volume-all](./Images/uniswap-volume-all.png)
-
-![uniswap-volume](./Images/uniswap-volume.png)
 
 ### Yearn
 
-![yearn-sentiment](./Images/yearn-sentiment.png)
+<table>
+    <tr>
+        <td><img src="./Images/yearn-sentiment.png" alt="yearn-sentiment"></td>
+        <td><a href="./Images/yearn-sentiment.png">./Images/yearn-sentiment.png</a></td>
+    </tr>
+    <tr>
+        <td><img src="./Images/yearn-volume-all.png" alt="yearn-volume-all"></td>
+        <td><a href="./Images/yearn-volume-all.png">./Images/yearn-volume-all.png</a></td>
+    </tr>
+    <tr>
+        <td><img src="./Images/yearn-volume.png" alt="yearn-volume"></td>
+        <td><a href="./Images/yearn-volume.png">./Images/yearn-volume.png</a></td>
+    </tr>
+</table>
 
-![yearn-volume-all](./Images/yearn-volume-all.png)
-
-![yearn-volume](./Images/yearn-volume.png)
 
 
 
