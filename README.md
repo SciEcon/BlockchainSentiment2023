@@ -115,15 +115,28 @@ For collecting data from Discord, please refer to [**DiscordChatExporter**](http
 ## Images
 ### Overview
 
+#### Data Processing Flowchart
+
 ![data-processed-flowchart](./Images/data-processed-flowchart.png)
+
+#### Literature Review Roadmap
 ![literature-review-mandmap](./Images/literature-review-mandmap.png)
 
 ### AAVE
-![aave-sentiment](./Images/aave-sentiment.png)
-
-![aave-volume-all](./Images/aave-volume-all.png)
-
-![aave-volume](./Images/aave-volume.png)
+<table>
+    <tr>
+        <td><img src="./Images/aave-sentiment.png" alt="aave-sentiment"></td>
+        <td><a href="./Images/aave-sentiment.png">./Images/aave-sentiment.png</a></td>
+    </tr>
+    <tr>
+        <td><img src="./Images/aave-volume-all.png" alt="aave-volume-all"></td>
+        <td><a href="./Images/aave-volume-all.png">./Images/aave-volume-all.png</a></td>
+    </tr>
+    <tr>
+        <td><img src="./Images/aave-volume.png" alt="aave-volume"></td>
+        <td><a href="./Images/aave-volume.png">./Images/aave-volume.png</a></td>
+    </tr>
+</table>
 
 ### Aragon
 
